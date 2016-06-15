@@ -1,0 +1,2 @@
+# casperjs-for-cookies
+test
